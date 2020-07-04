@@ -1,0 +1,14 @@
+
+/* İndex sayfası içerik bölümü kutucukları*/
+
+.ikutu{
+  font-size: 13px;
+  font-style: normal;
+  font-family: sans-serif;
+  padding: 5px;
+  margin-bottom: -10px;
+}
+
+#ovalkenar {
+     border-bottom-left-radius: 10px;
+}
